@@ -5,7 +5,7 @@
 <p>Linguagens :books:</p>
 <p align="center"> 
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=py,cs,c,sql,css,js" />
+    <img src="https://skillicons.dev/icons?i=py,c,cs,dotnet,mysql,html,md" />
   </a>
 </p>
 <p>Frameworks e Bibliotecas :toolbox:</p>
@@ -23,12 +23,12 @@
 <p>Sofwares e Ferramentas :computer:</p>
 <p align="center"> 
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,github,windows,linux,graphql,ps,pr,discord&perline=4" />
+    <img src="https://skillicons.dev/icons?i=git,windows,linux,graphql,ps,pr&perline=4" />
   </a>
 </p>
 <p>Redes Sociais :iphone:</p>
 <p align="center"> 
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=twitter,instagram,linkedin" />
+    [![Redes](https://skillicons.dev/icons?i=github)](https://github.com/manoelnobrega)
   </a>
 </p>
