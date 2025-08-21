@@ -28,7 +28,9 @@
 </p>
 <p>Redes Sociais :iphone:</p>
 <p align="center"> 
-  <a href="https://skillicons.dev">
-    [![Redes](https://skillicons.dev/icons?i=github)](https://github.com/manoelnobrega)
+  <a href="https://github.com/manoelnobrega">
+    <a href="https://skillicons.dev">
+      <img src="https://skillicons.dev/icons?i=github" />
+    </a>
   </a>
 </p>
