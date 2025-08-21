@@ -17,7 +17,7 @@
 <p>Redes Sociais e Email :iphone:</p>
 <p align="center">
   <a href="https://github.com/manoelnobrega">
-    <img src="https://skillicons.dev/icons?i=github", alt="GitHub" />
+    <img src="https://skillicons.dev/icons?i=github" alt="GitHub" />
   </a>
   <a href="https://www.linkedin.com/in/manoel5/">
     <img src="https://skillicons.dev/icons?i=linkedin", alt="LinkedIn" />
