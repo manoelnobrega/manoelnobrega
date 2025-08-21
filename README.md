@@ -5,7 +5,7 @@
 <p>Linguagens :books:</p>
 <p align="center"> 
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=py,cs,c,html,css,js" />
+    <img src="https://skillicons.dev/icons?i=py,cs,c,sql,css,js" />
   </a>
 </p>
 <p>Frameworks e Bibliotecas :toolbox:</p>
