@@ -26,11 +26,21 @@
     <img src="https://skillicons.dev/icons?i=git,windows,linux,graphql,ps,pr&perline=4" />
   </a>
 </p>
-<p>Redes Sociais :iphone:</p>
-<p align="center"> 
-  <a href="https://skillicons.dev">
-    <a href="https://github.com/manoelnobrega">
-      <img src="https://skillicons.dev/icons?i=github" />
-    </a>
+<p>Redes Sociais e Email :iphone:</p>
+<p align="center">
+  <a href="https://github.com/manoelnobrega">
+    <img src="https://skillicons.dev/icons?i=github", "GitHub" />
+  </a>
+  <a href="https://www.linkedin.com/in/manoel5/">
+    <img src="https://skillicons.dev/icons?i=linkedin" />
+  </a>
+  <a href="https://www.instagram.com/manoel.3000/">
+    <img src="https://skillicons.dev/icons?i=instagram" />
+  </a>
+  <a href="manoelnobrega000@gmail.com">
+    <img src="https://skillicons.dev/icons?i=gmail" />
+  </a>
+  <a href="manoelnobreganeto@outlook.com">
+    <img src="https://skillicons.dev/icons?i=windows" />
   </a>
 </p>
